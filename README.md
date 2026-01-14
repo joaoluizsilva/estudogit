@@ -1,3 +1,4 @@
 # estudogit
-
-test
+<b>Negrito</b>
+<br>
+<span style="color:red">Texto vermelho</span>
